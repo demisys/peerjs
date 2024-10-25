@@ -103,6 +103,7 @@
 		"lib/global.ts",
 		"lib/supports.ts"
 	],
+	"type": "module",
 	"main": "dist/bundler.cjs",
 	"module": "dist/bundler.mjs",
 	"browser-minified": "dist/peerjs.min.js",
